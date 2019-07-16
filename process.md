@@ -2,7 +2,7 @@
 
 # 服务流程
 
-![](/images/等保流程.png)
+![](/images/fwlc1.png 服务流程)
 
 # 定级流程
 
