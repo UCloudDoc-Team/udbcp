@@ -2,7 +2,7 @@
 
 # 服务流程
 
-![](https://github.com/UCloudDocs/udbcp/blob/master/images/fwlc1.png 服务流程)
+![](/images/fwlc1.png service flow)
 
 # 定级流程
 
