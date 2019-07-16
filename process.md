@@ -2,7 +2,7 @@
 
 # 服务流程
 
-![](/images/fwlc1.png service flow)
+![ ](/images/fwlc1.png)
 
 # 定级流程
 
