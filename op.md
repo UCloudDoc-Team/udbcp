@@ -87,7 +87,7 @@ em>注：此处仅计算安全产品价格，用于项目预算。</wrap>为保�
 
 ![](/images/cz17.png)
 
-导出PDF方案：
+导出下载PDF方案：
 
 ![](/images/cz18.png)
 
