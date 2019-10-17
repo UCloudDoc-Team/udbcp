@@ -19,6 +19,6 @@
 
 ## 文件下载
 
-[UCloud平台通过三级等保的报告关键页及证明2019](http://udbcp-public.cn-gd.ufileos.com/UCloud平台通过三级等保的报告关键页及证明2019v3.pdf)
+[UCloud平台通过三级等保的报告关键页及证明2019](http://udbcp-public.cn-gd.ufileos.com/UCloud平台通过三级等保的报告关键页及证明2019v4.pdf)
 
 [客户购买使用UCloud安全产品的示意图2019](http://udbcp-public.cn-gd.ufileos.com/客户购买使用UCloud安全产品的示意图2019v1.pdf)
