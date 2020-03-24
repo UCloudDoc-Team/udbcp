@@ -28,7 +28,7 @@
 
 控制台将根据系统等级、设备数量计算出测评服务价格，价格主要依据当地测评机构而定。
 
-UCloud云平台已通过等保三级（证明材料下载地址https://docs.ucloud.cn/security/udbcp/documents），根据公安部等保相关规定，云平台可以承载等保三级、等保二级的系统。
+UCloud云平台已通过等保三级（证明材料下载地址https://docs.ucloud.cn/udbcp/documents），根据公安部等保相关规定，云平台可以承载等保三级、等保二级的系统。
 
 （3）机房信息
 
