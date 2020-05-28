@@ -18,6 +18,6 @@ UCloud在满足自身合规的基础上，助力云客户等保合规，推出�
 
 # 文件下载地址
 
-[UCloud平台三级等保报告关键页2020](http://udbcp-public.cn-gd.ufileos.com/UCloud云平台三级等保报告关键页2020.pdf)
+[UCloud平台三级等保报告关键页2020](http://udbcp-public.cn-gd.ufileos.com/UCloud平台三级等保报告关键页2020年5月.pdf)
 
 [客户购买使用UCloud安全产品架构图2020](http://udbcp-public.cn-gd.ufileos.com/客户购买使用UCloud安全产品的示意图2020.pdf)
