@@ -1,4 +1,3 @@
-<div class="sidebar_title icon__uslpe"> 等保测评服务 UDBCP</div>
 
 * [概览](/udbcp/README)
 * 产品简介
