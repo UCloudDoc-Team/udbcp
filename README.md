@@ -2,7 +2,7 @@
 
 
 * 产品简介
-    * [什么是等保](/udbcp/introduction/what)
+    * [什么是等保.](/udbcp/introduction/what)
     * [等级保护十大标准](/udbcp/introduction/criterion)
     * [产品优势](/udbcp/introduction/advantage)
 * [快速上手](/udbcp/quick)
