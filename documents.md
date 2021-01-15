@@ -25,4 +25,4 @@ UCloud公有云在2020年依据等保2.0标准完成三级复测，等级测评�
 
 # 文件下载地址
 
-[UCloud公有云等保大礼包下载](http://udbcp-public.cn-gd.ufileos.com/UCloud公有云等保大礼包2020版.rar)
+[UCloud公有云等保大礼包下载](https://udbcp-public.cn-gd.ufileos.com/UCloud公有云等保大礼包2020版.rar)
