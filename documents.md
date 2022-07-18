@@ -25,4 +25,4 @@ UCloud公有云在2022年依据等保标准完成三级复测，等级测评结�
 
 # 文件下载地址
 
-[UCloud公有云等保大礼包下载]( https://udbcp-public.cn-gd.ufileos.com/UCloud公有云等保大礼包-2022.07.01.zip )
+[UCloud公有云等保大礼包下载]( https://udbcp-public.cn-gd.ufileos.com/UCloud%E5%85%AC%E6%9C%89%E4%BA%91%E7%AD%89%E4%BF%9D%E5%A4%A7%E7%A4%BC%E5%8C%85-2022v2.zip )
