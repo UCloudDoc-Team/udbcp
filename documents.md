@@ -4,7 +4,7 @@
 
 \- 客户测评须知：
 
-UCloud公有云在2023年依据等保标准完成网络安全等级保护测评，等级测评结论为“优”。
+UCloud公有云在2024年依据等保标准完成网络安全等级保护测评，等级测评结论为“优”。
 
 云客户进行等保测评时，可下载页面下方“UCloud公有云等保大礼包”，包含以下文件：
 
@@ -25,4 +25,4 @@ UCloud公有云在2023年依据等保标准完成网络安全等级保护测评�
 
 # 文件下载地址
 
-[UCloud公有云等保大礼包下载](https://udbcp-public.cn-gd.ufileos.com/UCloud%E5%85%AC%E6%9C%89%E4%BA%91%E7%AD%89%E4%BF%9D%E5%A4%A7%E7%A4%BC%E5%8C%85-2023.zip)
+[UCloud公有云等保大礼包下载](https://udbcp-public.cn-gd.ufileos.com/UCloud%E5%85%AC%E6%9C%89%E4%BA%91%E7%AD%89%E4%BF%9D%E5%A4%A7%E7%A4%BC%E5%8C%85-2024.zip)
